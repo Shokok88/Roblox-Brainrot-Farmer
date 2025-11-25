@@ -1,0 +1,40 @@
+{
+  "servers": [
+    {
+      "instanceId": "2754763c-6da8-42cb-bffb-631029f4ce0a",
+      "petName": "Orcalero Orcala",
+      "moneyPerSec": 850000,
+      "players": 7
+    },
+    {
+      "instanceId": "87a2517d-9bce-4e8e-adf2-lbb6f1876c7e", 
+      "petName": "Orcalero Orcala",
+      "moneyPerSec": 850000,
+      "players": 7
+    },
+    {
+      "instanceId": "a603bd1c-4433-454c-850d-c100a43b7a31",
+      "petName": "Orcalero Orcala", 
+      "moneyPerSec": 850000,
+      "players": 22
+    },
+    {
+      "instanceId": "b106d13e-756b-4ffc-b335-8370991c43e5",
+      "petName": "Las Trialeritas",
+      "moneyPerSec": 650000, 
+      "players": 5
+    },
+    {
+      "instanceId": "538dfcf3-67a1-4ab3-b30f-276ae70fb0f0",
+      "petName": "Tralalero Tralala",
+      "moneyPerSec": 500000,
+      "players": 6
+    },
+    {
+      "instanceId": "6ba49d31-e31c-4cdc-ab56-b7fe55d7f18c",
+      "petName": "Zombie Tralala",
+      "moneyPerSec": 500000,
+      "players": 5
+    }
+  ]
+}
